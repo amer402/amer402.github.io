@@ -1,0 +1,32 @@
+/* Part 3: Styling Using an External Stylesheet */
+
+/* Background color for the page */
+.external-style-body {
+    background-color: #f0e68c;
+}
+
+/* Styling the main heading */
+.external-h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+/* Styling the navigation table */
+.external-nav-table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 100%;
+    background-color: #e0e0e0;
+}
+
+/* Styling the navigation td elements */
+.external-nav-td {
+    padding: 10px;
+}
+
+/* Styling the navigation anchor elements */
+.external-nav-a {
+    color: brown;
+    font-size: 20px;
+    text-decoration: none;
+}
